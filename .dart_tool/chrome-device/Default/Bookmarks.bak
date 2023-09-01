@@ -1,0 +1,360 @@
+{
+   "checksum": "7229e8aea460f626b18bcefca59b3bde",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13314034987348066",
+            "date_last_used": "13320681818166318",
+            "guid": "9e7a2637-bc2c-4c63-aef8-cc705ce66f6f",
+            "id": "25",
+            "name": "Amazon.in - Online Shopping",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/bit/amazonbookmark.html?tag=hp2-brobookmark-us-20&partner=HP"
+         }, {
+            "children": [ {
+               "date_added": "13316873804888809",
+               "date_last_used": "0",
+               "guid": "5b096d70-679a-451a-9408-4445bcd5e394",
+               "id": "27",
+               "name": "TensorFlow-Machine-Learning-Projects/ch-01_Overview_of_TensorFlow_and_Machine_Learning.ipynb at master · PacktPublishing/TensorFlow-Machine-Learning-Projects",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://github.com/PacktPublishing/TensorFlow-Machine-Learning-Projects/blob/master/Chapter01/ch-01_Overview_of_TensorFlow_and_Machine_Learning.ipynb"
+            }, {
+               "date_added": "13317111485262573",
+               "date_last_used": "0",
+               "guid": "815db7ba-5d90-456b-9072-03fe05fac73b",
+               "id": "28",
+               "name": "AWS Certified Cloud Practitioner Exam Questions 2023",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://skillcertpro.com/product/aws-certified-cloud-practitioner-new-practice-exam-set/"
+            }, {
+               "date_added": "13317317698507329",
+               "date_last_used": "0",
+               "guid": "8570677a-aa5d-4733-92d7-d2275177a14b",
+               "id": "29",
+               "name": "TRADING MASTERCLASS XVII - Wysetrade",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.wysetrade.com/courses/take/trading-masterclass-xvii/texts/26342224-welcome-to-wysetrade"
+            }, {
+               "date_added": "13320824965727257",
+               "date_last_used": "0",
+               "guid": "08ba3da2-5afc-472a-a1d8-285b0d2eba29",
+               "id": "30",
+               "name": "NIFTY 17848.35 ▲ +0.44% Unnamed",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://in.tradingview.com/chart/YeItjsR0/?symbol=NSE%3ABANKNIFTY"
+            }, {
+               "date_added": "13321288697770529",
+               "date_last_used": "0",
+               "guid": "816ef5b9-c55a-44b8-8378-70d214484b68",
+               "id": "31",
+               "name": "Combinations Permutations Calculator",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://stattrek.com/online-calculator/combinations-permutations"
+            }, {
+               "children": [ {
+                  "date_added": "13336926872583143",
+                  "date_last_used": "0",
+                  "guid": "7a9b38f6-cb3b-4222-a565-851977209b9e",
+                  "id": "33",
+                  "name": "Build Completed E-Commerce with ASP.NET Core MVC - Part 1 - Create User Layout - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=rvxQAoIgpkw&list=PL2UwEEhB4YafVIdKCBRjTyryET2EHgryp&index=6"
+               }, {
+                  "date_added": "13336926891491943",
+                  "date_last_used": "0",
+                  "guid": "0799c41e-00cc-4096-866b-f4402855a50a",
+                  "id": "34",
+                  "name": "#01 Complete E-Commerce App Backend Api's Development With Node Js In 9 Hours - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=S6Yd5cPtXr4"
+               }, {
+                  "date_added": "13336926897602475",
+                  "date_last_used": "0",
+                  "guid": "d9e3c7a6-1271-4d8f-8e85-52bbf9bed620",
+                  "id": "35",
+                  "name": "Create a Modern Ecommerce Project with React, NodeJS & MongoDB | Source Code Available [2022] - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=1NWBO8L81J8"
+               }, {
+                  "date_added": "13336926901904992",
+                  "date_last_used": "0",
+                  "guid": "95848f66-e125-4820-825f-682b12077095",
+                  "id": "36",
+                  "name": "#01 Complete E-Commerce App Backend Api's Development With Node Js In 9 Hours - YouTube",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=S6Yd5cPtXr4&list=PL0g02APOH8okXhOQLOLcB_nifs1U41im5"
+               }, {
+                  "date_added": "13336980464272807",
+                  "date_last_used": "0",
+                  "guid": "8bd151bf-ed76-4af7-a105-ea0a6aeb8ca9",
+                  "id": "37",
+                  "name": "New tab",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "edge://newtab/"
+               } ],
+               "date_added": "13323332851703474",
+               "date_last_used": "0",
+               "date_modified": "13336980464272807",
+               "guid": "e66aed1c-13b4-47b2-8fd8-3f6d47ba1b16",
+               "id": "32",
+               "name": "New folder",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "13324224741936513",
+               "date_last_used": "0",
+               "guid": "3d7cec72-3c5c-4703-8290-c9d63a2a8443",
+               "id": "38",
+               "name": "Upgrad-Masters-ML-AI/Assignments at main · pareshppp/Upgrad-Masters-ML-AI · GitHub",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://github.com/pareshppp/Upgrad-Masters-ML-AI/tree/main/Assignments"
+            }, {
+               "date_added": "13324224809146391",
+               "date_last_used": "0",
+               "guid": "3bfa3416-7969-4d34-bed5-bfe2e1e9bd3d",
+               "id": "39",
+               "name": "GitHub - pareshppp/Upgrad-Masters-ML-AI: Lecture Notes and Assignments for Master's in ML & AI from IIIT-Bangalore & LJMU with Upgrad",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://github.com/pareshppp/Upgrad-Masters-ML-AI"
+            } ],
+            "date_added": "13316767179299054",
+            "date_last_used": "0",
+            "date_modified": "13324224809146391",
+            "guid": "f2bd807d-1a5b-46ef-839b-69c9213f707d",
+            "id": "26",
+            "name": "tensorflow ML certification",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13316767202183801",
+            "date_last_used": "0",
+            "guid": "2f2dea94-ae9c-4f21-93d1-ac21b25d7789",
+            "id": "40",
+            "name": "nicholasjhana/tensorflow-certification-study-guide: Material and code samples used to help study for and pass the TensorFlow Developer Certification",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/nicholasjhana/tensorflow-certification-study-guide"
+         }, {
+            "children": [ {
+               "date_added": "13323332799924101",
+               "date_last_used": "0",
+               "guid": "a4889b34-19f6-4b6a-b74c-373e4a8d004d",
+               "id": "42",
+               "name": "Swing Trade",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://chartink.com/screener/monthly-breakout-stocks-90"
+            }, {
+               "date_added": "13323332875919576",
+               "date_last_used": "0",
+               "guid": "ec5a28d3-6db1-43e1-9133-a08c34719b6e",
+               "id": "43",
+               "name": "NSE - National Stock Exchange of India Ltd.",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www1.nseindia.com/products/content/equities/equities/eq_security.htm"
+            }, {
+               "date_added": "13324540852240643",
+               "date_last_used": "0",
+               "guid": "b83239ce-132f-4eec-b344-7e6cd2852509",
+               "id": "44",
+               "name": "FII/FPI & DII trading activity on NSE, BSE and MSEI Reports - NSE India",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.nseindia.com/reports/fii-dii"
+            }, {
+               "date_added": "13328189065379293",
+               "date_last_used": "0",
+               "guid": "f91afc0d-b2a8-41ea-ace9-99ed1e964088",
+               "id": "45",
+               "name": "Inspector General of Registration - Tamil Nadu",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://tnreginet.gov.in/portal/"
+            } ],
+            "date_added": "13323332851703636",
+            "date_last_used": "0",
+            "date_modified": "13328189065379293",
+            "guid": "b0707b74-8aff-4031-b14b-bfc63b49355d",
+            "id": "41",
+            "name": "Swing Trade",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13334043276017989",
+            "date_last_used": "0",
+            "guid": "bfef8bab-c658-468b-b906-68951775c86c",
+            "id": "46",
+            "name": "ChatGPT Cheat Sheet & Quick Reference",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://quickref.me/chatgpt.html"
+         }, {
+            "date_added": "13334043361581405",
+            "date_last_used": "0",
+            "guid": "948f6242-28e8-4831-8915-515776a321bf",
+            "id": "47",
+            "name": "The Ultimate Docker Cheat Sheet | dockerlabs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dockerlabs.collabnix.com/docker/cheatsheet/"
+         }, {
+            "date_added": "13334043366704444",
+            "date_last_used": "0",
+            "guid": "c55d5196-8f65-496e-8435-9ad5cac6e075",
+            "id": "48",
+            "name": "Amazon Web Services AWS Cheat Sheets - Tutorials Dojo",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tutorialsdojo.com/aws-cheat-sheets/"
+         }, {
+            "date_added": "13334222530621011",
+            "date_last_used": "0",
+            "guid": "d1cba4a2-329b-4d50-81a1-70edbe4d98a9",
+            "id": "49",
+            "name": "Pictory – Video Marketing Made Easy - Pictory.ai",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pictory.ai/?ref=website62"
+         }, {
+            "date_added": "13337336793401688",
+            "date_last_used": "0",
+            "guid": "868ed720-e4de-41c3-900d-bf459afd3480",
+            "id": "10",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13337336793401634",
+            "date_last_used": "0",
+            "guid": "34d4268e-8d3e-4a03-b92b-79526de4c28e",
+            "id": "9",
+            "name": "Agoda",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.agoda.com/?cid=1649895&tag=NW22C1EF"
+         }, {
+            "date_added": "13337336793401559",
+            "date_last_used": "0",
+            "guid": "f332b19c-16d6-46c6-9626-6ce1dd5f08d0",
+            "id": "8",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13337336793401481",
+            "date_last_used": "0",
+            "guid": "7798bcbd-990d-4f02-bada-3906eba83fa6",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13337336793401152",
+            "date_last_used": "0",
+            "guid": "7f5f80e1-983b-42e9-9c07-0c297ceddc22",
+            "id": "6",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         } ],
+         "date_added": "13337336793258167",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13314034987341550",
+               "date_last_used": "0",
+               "guid": "57d9eee2-063e-4b84-8776-bdd0825d4a62",
+               "id": "24",
+               "name": "Amazon.in - Online Shopping",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.amazon.com/gp/bit/amazonbookmark.html?tag=hp2-brobookmark-us-20&partner=HP"
+            } ],
+            "date_added": "13337336796051504",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "63d90957-5421-4ed5-bdb4-f3325ecacc2a",
+            "id": "23",
+            "name": "HP",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13337336793258169",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13337336793258170",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCK7ZNzGKAQAAEgAgASoYR2Yrc3BHWmtyM0VNVzhMZlpaL2ZmZz09oAYMEqgBCC0SowEKHE8rZEtiOHdUc0F2WEhuYTBCVU9oNFJmYWpwOD0SJGY5MWFmYzBkLWIyYTgtNDFlYS1hY2U5LTk5ZWQxZTk2NDA4OBgAIAAoADCB1oyqgDE4nNaMqoAxQJzWjKqAMUocYnNSS3M1ckFuK0lwVVBuZFMrM01saEp1RUFZPVofIh3qQlJvbXhMajgrMnFkTEY4UEd4UTdiclJQVlpZPWWcb3yjEqgBCDESowEKHGZBdWg5TGJJRmw4Vno0L2FLaS8yRkhxenBPRT0SJGQxY2JhNGEyLTMyOWItNGQ1MC04MWExLTcwZWRiZTRkOThhORgAIAIoAjDZp6+JozE4npWK55YxQM/cromjMUocV1U3N1JPU2NTaXUxT05McHhPMGFXbGtNbWo4PVofIh3+Sm91bkVQSlZUdDZ3QzBxVjRjTDBrM254YzFJPWWBBgwXEqgBCC4SowEKHHpTSTdOcXBHQ09iRDRhYVdSWnBsS0NUS3hZbz0SJGJmZWY4YmFiLWM2NTgtNDY4Yi1iOTA2LTY4OTUxNzc1Yzg2YxgAIAIoAjDXp6+JozE4073NkZYxQM3cromjMUocQi9YdlE3MzgxYmlyWlMyaTREdGNGOTVGVWxVPVofIh30ZTJ0YkQ5VzRjbXpxUWpHTm5PTzl3eW5SZjlRPWWdT5w9EokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGM0Zjc4NDg0LTI4ZDgtNTI1Ni1hNTBiLWNhZmIzNTBlOTcyYxgAIAAoADDXhs6u0jA4+YjOrtIwQPmIzq7SMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqAEIHBKjAQocVHpSWExFN1FpdkxjU3B2VWE3OHNWSUNFN3dBPRIkODE1ZGI3YmEtNWQ5MC00NTZiLTkwNzItMDNmZTA1ZmFjNzNiGAAgACgAMM/c8ofXMDjg3PKH1zBA4Nzyh9cwShxKZnV3eC9aZXl4R252QmpkQVRTVythWGJ0M1k9Wh8iHbhhWisrTVBadHZySXF0bXNNaFFxUUsyNm1YbEk9ZfQMlKcSqAEIKxKjAQocRHNxbjFFT0hDbzZvR3k3dXBTd2JTVDBiRjRZPRIkZWM1YTI4ZDMtNmRiMS00M2UxLTkxMzMtYTA4YzM0NzE5YjZlGAAgACgAMPWrvp7uMDiMrL6e7jBAjKy+nu4wShxlbTM5QXFxUXdQVktHeGxuOW5KbnhzMmM3cU09Wh8iHas0U2tWT2VpMVYrYmR4ZFB4aVJwYnJiWVhJa0E9ZY64tbUSpwEIKhKiAQocUHlzVXVZS1RXMlFReVVuQ21WaTgzUWI5K1ZjPRIkYTQ4ODliMzQtMTlmNi00YjZhLWI3NGMtMzczZTRhOGQwMDRkGAAgACgAMMHtvJ7uMDih2bme7jBAodm5nu4wShw1RmRyeXN0SHNvS1p3OFIvbm1aODdpQXhZRzg9Wh4iHFY5Y3ZKOFphMkVnZytsMFdKbEswQW1yUFZHWT1ld29ZPBKoAQgoEqMBChxrN3dSbVVqemN6T25HOTFwT2NJRDBiaDVjUGc9EiQyZjJkZWE5NC1hZTljLTRmMjEtOTNkMS1hYzIxYjI1ZDc3ODkYACACKAIw1qeviaMxOJa23ePVMEDN3K6JozFKHGwwblNjMm44eHQzaCtpVzAzeVZ6MURkS0cwbz1aHyId00E3Y1k0aVVvN1JneE02THBudHhtM1kzb1QvWT1lXUePgxKoAQgpEqMBChx2U3pyQ3NWNUJwanVQRzY1R0YwZmNMTExCL289EiRiMDcwN2I3NC04YWZmLTQwMzEtYjE0Yi1iZmM2M2I0OTM1NWQYACAAKAAwwO28nu4wOJvuvJ7uMECb7rye7jBKHGxHRVdLcTZXbW5qWXRZdkx1d3hyQmcxRnMwZz1aHyId6UdzTUJuWnZDTnRjcjkxUU1qNEhPS2t6azh3ST1lAAAAABKoAQgsEqMBChxHRlhwS1pUNXN5ZzZOZWNIMjloUVRsUzJOKzA9EiRiODMyMzljZS0xMzJmLTRlZWMtYjM0NC03ZTZjZDI4NTI1MDkYACAAKAAw1ui/3vIwONy0v97yMEDctL/e8jBKHGRLUmpCNmxZNUJHS2pqYlNPMUVKUzVYMVNxRT1aHyId1XlRZFJPejNldVJTNDNKMVZKVTVFQW1zVW9hcz1ljri1tRKoAQgnEqMBChw3Q0tqajZoMVlHcFB4S0JPODFhMy9xMjl4cVk9EiQzYmZhMzQxNi03OTY5LTRkMzQtYmVkNS1iZmUyZTFlOWJkM2QYACAAKAAwx4CWiqExOLTQ5cfxMEC00OXH8TBKHHordU1zaWVzWUZOQmw2L0x1Y1dENmdvY2NMYz1aHyId/zhCYktGdTlwUGxSRkpzZzQ1S05Fay9ZS3YzWT1lXUePgxKoAQgvEqMBChxSc2JyTnB6TncwZlhTSk5JaHBBWEMxV0ZxSTg9EiQ5NDhmNjI0Mi0yOGU4LTQ4MzEtODkxNS01MTU3NzZhMzIxYmYYACAAKAAw38fSkZYxOPTL0pGWMUD0y9KRljFKHEptZGpHMFFKS0JNZUhtRk5nTVU3UFB4TEdybz1aHyId+nlqSzJ2Qkx5Zk1WQllCeUx0ZGRGNCswTy8wST1lAAAAABKoAQgfEqMBChxDOE1pMnZTbkJ1QjU3WGlHRWtLR3hKZ1Y0dk09EiQ4MTZlZjViOS1jNTVhLTQ0YjgtODM3OC03MGQyMTQ0ODRiNjgYACAAKAAw08ffz+YwOO7H38/mMEDux9/P5jBKHHowOFkraUVCN042ZGd4MlA1M0tnTnlEZSs3VT1aHyId90lBMXRPamZQL2VkSmJpWFJEWmZzYzE5TlNWUT1lMSn9axKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQwODM4OGYyYS1hZGJhLTU2ZDYtYmJhNi1iNzczYjQwY2JmYmIYACAAKAAw0YbOrtIwOOyHzq7SMEDsh86u0jBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqcBCCESogEKHHdpVTd3cWF6dUdSVVZjdk1mMjVPQUlEQlpiMD0SJDdhOWIzOGY2LWNiM2ItNDIyMi1hNTY1LTg1MTk3NzIwOWI5ZRgAIAAoADCe0M7woDE4rYTO8KAxQK2EzvCgMUocRndhdDkzVkpicmRQZXdERk5aYjF1OVRpODRvPVoeIhxXZTM3WnVXT0pvNmRVOXcrSEkzVERsRTY5Vjg9ZTj5OTMSqAEIJhKjAQocN3B6T05hU3Azd3oydkZPdVMrUjJHVzg5TStrPRIkM2Q3Y2VjNzItM2M1Yy00NzAzLTgyOTAtYzlkNjNhMmE4NDQzGAAgACgAMMaAloqhMTiYw+HH8TBAmMPhx/EwShxuQUY0K2FibWs1N3Z6MHdGUDRKSXpCNHlPLzQ9Wh8iHf50bm9Ha2ttT3JpRzFORTlRZHhSNVpCaHlVZ2M9ZV1Hj4MSqAEIMBKjAQocSDgrUm9rSGIxdHVpVExyS1BUOUZHdzVZLzRFPRIkYzU1ZDUxOTYtOGY2NS00OTZlLTg0MzUtOWFkNWNhYzZlMDc1GAAgAigCMNinr4mjMTiI8dKRljFAztyuiaMxShx2cUZlZUIxVEg5MnJRNkk1bWx0K0hqMllucUU9Wh8iHf1jektndWRpZ0pSRHdNUjcrWUNkZnJlL1pRcDg9ZdLz9lsSqAEIJRKjAQocRkVxQmdPSHF4Y21zSjJ2TWtsRzdlM1Q0ZzZzPRIkOGJkMTUxYmYtZWQ3Ni00YWY3LWExMDUtZWEwYTZhZWI4Y2E5GAAgACgAMPOFlYqhMTiZhpWKoTFAmYaViqExShxYbE5udVVwcTJWOC90SndWSC9LcCtnUUx6Z0E9Wh8iHfVFMHdIY0xVMS9QZndGOU5FMk00Y1h5WkNuMDA9ZVTVYD4SqAEIIBKjAQocLzBQbXpmVFYvQ0s4SHVlMlNpZklvY3owYWRrPRIkZTY2YWVkMWMtMTNiNC00N2IyLThmZDgtM2Y2ZDQ3YmExYjE2GAAgACgAML/tvJ7uMDjN7bye7jBAze28nu4wShx6RGs0V25JTjlidUFQa2JWUmNMN3Yzbkg0MGc9Wh8iHf05UnZmcXdMNnptaC9OMXViS0RNOVU3RmFHNWc9ZQAAAAASqAEIIxKjAQocVDZWVFJrZll5dFlmQ3NyUEtCaFl5RDgvaGc0PRIkZDllM2M3YTYtMTI3MS00ZDhmLThlODUtNTJiYmY5YmVkNjIwGAAgACgAMPbEz/CgMTjzxc/woDFA88XP8KAxShxvaEE0VEZsSjBPQkc5SVRISksxUUlwTWVCeDQ9Wh8iHdVtSUZFYjNkazBNMEdaaHVqNVl5K2JpQzBMTTQ9ZTj5OTMSqAEIHRKjAQocNWQrenFZVmNLOVdtdmJSZURud2VNaFIwYjV3PRIkODU3MDY3N2EtYWE1ZC00NzMzLTkyZDctZDIyNzUxNzdhMTRiGAAgACgAMNzJr4HYMDjnhp3q1zBA54ad6tcwShwxSXloYkM4WnJqWEtVZkF3cS9BTy94dTZGd2c9Wh8iHdw0clpPMFJ2TE1xUWNEaDRNTmNBY1R6V1Mxd2M9ZeOBElcSqAEIGhKjAQoceklHcU9nNnBUSTVKbER5UzNtczF5dFpsWUlRPRIkZjJiZDgwN2QtMWE1Yi00NmVmLTgzOWItNjljOTIxM2Y3MDdkGAAgACgAMNXv3OPVMDjFg9zj1TBAxYPc49UwShxVWnBRdXdlSFBYeGk2VjEydWZHZytoNFhCMTA9Wh8iHac0M25DWDVCNGdMMGw5Tml0MS9nTjZMNWFRSlk9ZQAAAAASqAEIHhKjAQocaEdHbDRvYnpYRWdBeFl2MXo2QXZVbWk1cjBjPRIkMDhiYTNkYTItNWFmYy00NzJhLWExZDgtMjg1YjBkMmViYTI5GAAgACgAMJnVz/LkMDis1c/y5DBArNXP8uQwShxoR29TYWlmd3RIcjk4UlRwVXFlc2NjZlAxZ2M9Wh8iHe5OYWs0RllRZ0JDbWtNR0pDV1lycTdQdFJLTW89ZY1WcT4SqAEIJBKjAQocQWhYSjVkRlB5MlpYSlMwNWJmYWQ1QkdhNVo0PRIkOTU4NDhmNjYtZTEyNS00ODIwLTgyNWYtNjgyYjEyMDc3MDk1GAAgACgAMKrmz/CgMTjK5s/woDFAyubP8KAxShxTT2xmb1BxVTNRVUlOalRuQWJDRnc2Y3ozYzg9Wh8iHepFeUV4akY1ai9LYVB1aHV3Qm0zdFhqTHUvUTA9ZTj5OTMSqAEIIhKjAQocUkNBY2xEblJ2dWpWYXkzZlB3RTZadkcyY0E0PRIkMDc5OWM0MWUtMDBjYy00MDk2LTg2NmItZjQ0MDI4NTVhNTBhGAAgACgAMLuVz/CgMTiIls/woDFAiJbP8KAxShxTcVduYTZsSStpc09ya0pCdUdGeFo0RklHUDA9Wh8iHatJbEFRaWVWZWkrVkJMemttV1dZT2tOUUJPaEk9ZTj5OTMSpwEIGRKiAQocQTdyeVFrSE1DY094RFAxNUI0SDB5RjIxOUgwPRIkOWU3YTI2MzctYmMyYy00YzYzLWFlZjgtY2M3MDVjZTY2ZjZmGAAgACgAMMSUr67kMDjBgPSi1DBAwYD0otQwShx3SEI4ZHE0aXNJa2hkNGxaRGRoa09iNERCVU09Wh4iHE5CTmkyVlNmUGZhK3g0dHV5STdJZ2szamdQRT1lw3421BKnAQgXEqIBChxodVdVM0hjUnBOeDZQK3NnYWNuYlU2alRMNms9EiQ2M2Q5MDk1Ny01NDIxLTRlZDUtYmRiNC1mMzMyNWVjYWNjMmEYACAAKAAwnv7zotQwOOb+86LUMEDm/vOi1DBKHHVJdE9zV0FIMHNYd1dtM1ZMejZqTkY4UEVQQT1aHiIcTmVTOFdaMXZYWnQ3YUF0K3pPdmZMSkUxb2t3PWUAAAAAEqcBCBgSogEKHE15TFB2bERyc1o4MkFWQ0xKU0huYVJJMjVMbz0SJDU3ZDllZWUyLTA2M2UtNGI4NC04Nzc2LWJkZDA4MjVkNGE2MhgAIAQoBDCss9+JozE4ooD0otQwQM2f34mjMUocSU96OGxuUHVWcmFLMTNHeTFGWkgwOTM0c21VPVoeIhxhNmRDbDFkYnlCY2VZNEJGMEc4UThoMDVNSGs9ZcN+NtQSpwEIGxKiAQocRGttQTRpY0pPYXVzYjdmdGovQ2V5UWs0N29zPRIkNWIwOTZkNzAtNjc5YS00NTFhLTk0MDgtNDQ0NWJjZDVlMzk0GAAgACgAMMWAloqhMTjF9ceW1jBAxfXHltYwShx6RDhwTk1FUktNajJyQXJZSERWY1VUQS9md0U9Wh4iHHF3cDRBUS9LbUZiK1BXWFJGZGdPb0JGY2hqST1lXUePgxKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ2MzU0ZDIzOS1mODhkLTUyNDktYTVjZi01ZDFkOWE1N2QwMWUYACAAKAAw0obOrtIwOIuIzq7SMECLiM6u0jBKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
