@@ -1,4 +1,4 @@
-# ads
+# Fullter Flappy Bird game
 
 A new Flutter project.
 
